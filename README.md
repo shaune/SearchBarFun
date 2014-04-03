@@ -1,4 +1,4 @@
-iOS 7 Searchbar transition expirement
+iOS 7 Searchbar transition experiment
 ============
 
 With iOS 7 came some great features as well as some weird behavior with regards to search bars.
